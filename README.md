@@ -20,3 +20,11 @@ output:
 
 
 ![busc](https://user-images.githubusercontent.com/113341668/224494686-f27f7a00-41f9-400c-985b-9f57b58665cb.png)
+
+
+3) Star 
+
+output:
+
+
+![star](https://user-images.githubusercontent.com/113341668/224572105-3a361600-6a41-435a-9ea2-a0c1eb9437a5.png)
