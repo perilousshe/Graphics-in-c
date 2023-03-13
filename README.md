@@ -28,3 +28,20 @@ output:
 
 
 ![star](https://user-images.githubusercontent.com/113341668/224572105-3a361600-6a41-435a-9ea2-a0c1eb9437a5.png)
+
+
+4)Concentric circle
+
+output:
+
+
+![concentric](https://user-images.githubusercontent.com/113341668/224814309-0acb0e26-9771-4142-bc95-6e6d055b074e.png)
+
+
+5)
+
+output:
+
+
+![snowman](https://user-images.githubusercontent.com/113341668/224814410-d1523386-f640-4a9f-9e16-c37c200774ae.png)
+
