@@ -1,0 +1,40 @@
+#include<graphics.h>
+#include<conio.h>
+#include<stdlib.h>
+#include<dos.h>
+void main()           //Snow Man
+{
+   int x,y,a,b,i;
+   int gd=DETECT,gm;
+   initgraph(&gd,&gm,"C://TURBOC3//BGI");
+   setbkcolor(BLACK);
+   a=getmaxx()/2;
+   b=getmaxy()/2;
+   setfillstyle(SOLID_FILL,WHITE);
+    circle(a,b,50);
+   floodfill(a,b,WHITE);
+   circle(a,350,80);
+   floodfill(a,350,WHITE);
+   setfillstyle(SOLID_FILL,BLACK);
+   setcolor(BLACK);
+   circle(294,233,5);
+   floodfill(294,233,BLACK);
+   circle(345,233,5);
+   floodfill(345,233,BLACK);
+   setcolor(WHITE);
+   line(0,430,800,430);
+   setcolor(BLACK);
+   arc(a,b,180,360,12);
+   while(!kbhit())
+   {
+   for(i=0;i<4;i++)
+     {
+      x=rand()%getmaxx();
+      y=rand()%getmaxy();
+      putpixel(x,y,WHITE);
+     }
+     delay(500);
+   }
+getch();
+closegraph();
+}
