@@ -45,3 +45,10 @@ output:
 
 ![snowman](https://user-images.githubusercontent.com/113341668/224814410-d1523386-f640-4a9f-9e16-c37c200774ae.png)
 
+6) Flower
+
+output:
+
+
+![flower](https://user-images.githubusercontent.com/113341668/225413884-1b886c18-86a9-47ef-8078-c076394ce936.png)
+
