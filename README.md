@@ -52,3 +52,9 @@ output:
 
 ![flower](https://user-images.githubusercontent.com/113341668/225413884-1b886c18-86a9-47ef-8078-c076394ce936.png)
 
+
+7) Pattern
+
+
+![pattern](https://user-images.githubusercontent.com/113341668/226043633-0d4c11f6-38e0-423c-9400-4a2d37568af7.png)
+
