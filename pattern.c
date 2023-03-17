@@ -4,9 +4,10 @@
 #include<dos.h>
 void main()
 {
+ int i;
  int gd=DETECT,gm;
  initgraph(&gd,&gm,"C://TURBOC3//BGI");
- for(int i=1;i<=100;i++)
+ for(i=1;i<=100;i++)
  {
    setcolor(i);
    circle(319,200-i,20+i);
