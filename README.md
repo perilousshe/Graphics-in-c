@@ -58,3 +58,9 @@ output:
 
 ![pattern](https://user-images.githubusercontent.com/113341668/226043633-0d4c11f6-38e0-423c-9400-4a2d37568af7.png)
 
+
+8) Rainbow
+
+
+![rainbow](https://user-images.githubusercontent.com/113341668/226198308-3be88c26-b656-4ca9-9362-9e1f36187496.png)
+
