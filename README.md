@@ -64,3 +64,7 @@ output:
 
 ![rainbow](https://user-images.githubusercontent.com/113341668/226198308-3be88c26-b656-4ca9-9362-9e1f36187496.png)
 
+9) Moving Bus
+
+
+![movingbus](https://user-images.githubusercontent.com/113341668/226676941-71d336e6-cda0-47fc-b539-854783de081b.png)
