@@ -68,3 +68,8 @@ output:
 
 
 ![movingbus](https://user-images.githubusercontent.com/113341668/226676941-71d336e6-cda0-47fc-b539-854783de081b.png)
+
+10) Loop 
+
+
+![loop](https://user-images.githubusercontent.com/113341668/231128107-0ad63a68-7567-4f23-9684-cffd9822dc3d.png)
